@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Leon Lang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Amsterdam
+  url: https://www.uva.nl/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include equivariant deep learning and information theory.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Information Theory
+- Pure Mathematics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Machine Learning and Information Theory
+    institution: University of Amsterdam
+    year: expected 2024
+  - course: MSc in Artificial Intelligence
+    institution: University of Amsterdam
+    year: 2020
+  - course: MSc in Mathematics
+    institution: University of Bonn
+    year: 2017
+  - course: BSc in Mathematics
+    institution: University of Heidelberg
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +73,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+THIS WEBSITE IS IN ITS BUILDUP. MOST CONTENT STILL BELONGS TO THE ORIGINAL TEMPLATE
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student at the University of Amsterdam, interested in information theory, equivariant deep learning, and pure maths more generally.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
