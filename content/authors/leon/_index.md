@@ -14,7 +14,7 @@ organizations:
   url: https://www.uva.nl/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include equivariant deep learning and information theory.
+bio: I'm an enthusiastic researcher in information theory and machine learning
 
 # Interests to show in About widget
 interests:
@@ -64,14 +64,13 @@ social:
   link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "l.lang@uva.nl"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-THIS WEBSITE IS IN ITS BUILDUP. MOST CONTENT STILL BELONGS TO THE ORIGINAL TEMPLATE
-
+WEBSITE STILL IN BUILDUP
 I am a PhD student at the University of Amsterdam, interested in information theory, equivariant deep learning, and pure maths more generally.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
