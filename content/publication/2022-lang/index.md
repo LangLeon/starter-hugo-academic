@@ -64,6 +64,4 @@ publication: '*arXiv e-prints*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2202.09393
-- name: URL
-  url: http://arxiv.org/abs/2202.09393
 ---

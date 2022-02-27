@@ -54,4 +54,6 @@ publication: '*LANTERN@EMNLP-IJCNLP 2019 - Beyond Vision and LANguage: inTEgrati
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1912.05525
+- name: URL
+  url: https://aclanthology.org/D19-64.pdf
 ---

@@ -22,6 +22,9 @@ image:
   focal_point: ''
   preview_only: false
 
+# Slides
+# slides: wigner-eckart --- Doesn't work, so remove.
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -48,6 +51,10 @@ abstract: Group equivariant convolutional networks (GCNNs) endow classical convo
   harmonic basis functions on homogeneous spaces.
 publication: '*International Conference on Learning Representations*'
 links:
-- name: URL
+- name: Arxiv
+  url: https://arxiv.org/abs/2010.10952
+- name: Reviews
   url: https://openreview.net/forum?id=ajOrOhQOsYx
+- name: Video
+  url: https://iclr.cc/virtual/2021/poster/2543
 ---
