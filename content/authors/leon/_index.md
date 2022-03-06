@@ -18,14 +18,14 @@ bio: I'm an enthusiastic researcher in information theory and machine learning
 
 # Interests to show in About widget
 interests:
-- Machine Learning
 - Information Theory
+- Machine Learning
 - Pure Mathematics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Machine Learning and Information Theory
+  - course: PhD in Information Theory and Machine Learning
     institution: University of Amsterdam
     year: expected 2024
   - course: MSc in Artificial Intelligence
@@ -70,7 +70,6 @@ email: "l.lang@uva.nl"
 highlight_name: true
 ---
 
-WEBSITE STILL IN BUILDUP
-I am a PhD student at the University of Amsterdam, interested in information theory, equivariant deep learning, and pure maths more generally.
+I am a PhD student at the University of Amsterdam, interested in information theory, equivariant deep learning, and pure mathematics more generally.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
