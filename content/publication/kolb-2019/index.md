@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Learning to request guidance in emergent communication
+title: Learning to Request Guidance in Emergent Communication
 subtitle: ''
-summary: ''
+summary: 'We analyze the training behaviour of an agent that can ask for help. Doing this is costly, and so the agent learns to become more independent in familiar situations.'
 authors:
 - Benjamin Kolb
 - Leon Lang
@@ -54,6 +54,6 @@ publication: '*LANTERN@EMNLP-IJCNLP 2019 - Beyond Vision and LANguage: inTEgrati
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1912.05525
-- name: URL
+- name: Proceedings
   url: https://aclanthology.org/D19-64.pdf
 ---

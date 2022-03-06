@@ -3,7 +3,7 @@
 
 title: A Program to Build E(N)-Equivariant Steerable CNNs
 subtitle: ''
-summary: ''
+summary: 'We propose a general method to implement equivariant convolutional neural networks and demonstrate it for 3D equivariant tasks. The implementation is based on the Wigner-Eckart theorem for steerable kernels.'
 authors:
 - Gabriele Cesa
 - Leon Lang
@@ -53,6 +53,6 @@ abstract: Equivariance is becoming an increasingly popular design choice to buil
   the data.
 publication: '*International Conference on Learning Representations*'
 links:
-- name: URL
+- name: Reviews
   url: https://openreview.net/forum?id=WE4qe9xlnQw
 ---

@@ -4,7 +4,8 @@
 title: "Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization\
   \ of Hu's Theorem"
 subtitle: ''
-summary: ''
+summary: 'We generalize information diagrams to functions beyond Shannon entropy, including Kolmogorov complexity and the generalization error from machine learning.
+'
 authors:
 - Leon Lang
 - Pierre Baudot

@@ -3,7 +3,7 @@
 
 title: A Wigner-Eckart Theorem for Group Equivariant Convolution Kernels
 subtitle: ''
-summary: ''
+summary: 'We generalize the famous Wigner-Eckart theorem from quantum mechanics in order to characterize steerable kernel spaces in representation theoretic terms.	'
 authors:
 - Leon Lang
 - Maurice Weiler
@@ -51,10 +51,14 @@ abstract: Group equivariant convolutional networks (GCNNs) endow classical convo
   harmonic basis functions on homogeneous spaces.
 publication: '*International Conference on Learning Representations*'
 links:
-- name: Arxiv
+- name: arXiv
   url: https://arxiv.org/abs/2010.10952
 - name: Reviews
   url: https://openreview.net/forum?id=ajOrOhQOsYx
 - name: Video
   url: https://iclr.cc/virtual/2021/poster/2543
+- name: Slides
+  url: "slides.pptx"
+- name: Poster
+  url: "poster_wigner_eckart.png"
 ---
