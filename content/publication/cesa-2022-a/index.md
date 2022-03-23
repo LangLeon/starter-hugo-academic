@@ -57,4 +57,6 @@ links:
   url: https://openreview.net/forum?id=WE4qe9xlnQw
 - name: Code
   url: https://github.com/QUVA-Lab/escnn
+- name: Video
+  url: https://recorder-v3.slideslive.com/#/share?share=63712&s=29adbadb-7392-470d-be5e-a6e7b07da0f4
 ---
