@@ -21,13 +21,14 @@ interests:
 - Information Theory
 - Machine Learning
 - Pure Mathematics
+- AI alignment
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Information Theory and Machine Learning
     institution: University of Amsterdam
-    year: expected 2024
+    year: expected 2025
   - course: MSc in Artificial Intelligence
     institution: University of Amsterdam
     year: 2020
@@ -71,5 +72,6 @@ highlight_name: true
 ---
 
 I am a PhD student at the University of Amsterdam, interested in information theory, equivariant deep learning, and pure mathematics more generally.
+More recently, I got very interested in AI alignment. You can find my alignment-related writing [on Lesswrong](https://www.lesswrong.com/users/leon-lang). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
