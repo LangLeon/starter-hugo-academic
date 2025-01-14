@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-02-27T18:11:46+01:00
+lastmod: 2022-01-01T18:11:46+01:00
 featured: false
 draft: false
 
@@ -46,17 +46,15 @@ abstract: Equivariance is becoming an increasingly popular design choice to buil
   To demonstrate its generality, we instantiate our method on a large variety of isometry
   groups acting on the Euclidean space R^3. Our general framework allows us to build
   E(3) and SE(3)-steerable CNNs like previous works, but also CNNs with arbitrary
-  G textless O(3)-steerable kernels. For example, we build 3D CNNs equivariant to
+  O(3)-steerable kernels. For example, we build 3D CNNs equivariant to
   the symmetries of platonic solids or choose G=SO(2) when working with 3D data having
   only azimuthal symmetries. We compare these models on 3D shapes and molecular datasets,
   observing improved performance by matching the model's symmetries to the ones of
   the data.
-publication: '*International Conference on Learning Representations*'
+publication: '*ICLR 2022*'
 links:
 - name: Reviews
   url: https://openreview.net/forum?id=WE4qe9xlnQw
 - name: Code
   url: https://github.com/QUVA-Lab/escnn
-- name: Video
-  url: https://recorder-v3.slideslive.com/#/share?share=63712&s=29adbadb-7392-470d-be5e-a6e7b07da0f4
 ---

@@ -38,7 +38,7 @@ tags:
 
 ## Theses
 
-In July 2020, I finished my {{< staticref "uploads/thesis.pdf" "newtab" >}}master's thesis artificial intelligence{{< /staticref >}} at the University of Amsterdam. It contains a generalization of the Wigner-Eckart theorem from quantum mechanics. Compared with the adapted {{< staticref "publication/lang-2021-a" >}}ICLR publication{{< /staticref >}}, this thesis features an alternative introduction and a more detailed literature review.
+In July 2020, I finished my {{< staticref "uploads/thesis.pdf" "newtab" >}}master's thesis artificial intelligence{{< /staticref >}} at the University of Amsterdam. It contains a generalization of the Wigner-Eckart theorem from quantum mechanics. Compared with the adapted {{< staticref "publication/2021-a-lang" >}}ICLR publication{{< /staticref >}}, this thesis features an alternative introduction and a more detailed literature review.
 
 In October 2017, I finished my {{< staticref "uploads/master_thesis_abgabe_version.pdf" "newtab" >}}master's thesis mathematics{{< /staticref >}} at the university of Bonn. This thesis details the asymptotic behaviour of so-called Auslander-Reiten translations, which are functors in the representation theory of finite dimensional associative algebras.
 

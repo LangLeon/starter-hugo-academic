@@ -49,7 +49,7 @@ abstract: Group equivariant convolutional networks (GCNNs) endow classical convo
   prove that steerable kernel spaces are fully understood and parameterized in terms
   of 1) generalized reduced matrix elements, 2) Clebsch-Gordan coefficients, and 3)
   harmonic basis functions on homogeneous spaces.
-publication: '*International Conference on Learning Representations*'
+publication: '*ICLR 2021*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2010.10952

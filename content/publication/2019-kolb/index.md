@@ -37,7 +37,7 @@ image:
 projects: []
 publishDate: '2022-02-27T17:11:46.597618Z'
 publication_types:
-- '2'
+- '1'
 abstract: "Previous research into agent communication has shown that a pre-trained\
   \ guide can speed up the learning process of an imitation learning agent. The guide\
   \ achieves this by providing the agent with discrete messages in an emerged language\
@@ -49,8 +49,7 @@ abstract: "Previous research into agent communication has shown that a pre-train
   \ over time and guidance is requested in situations of high uncertainty. We investigate\
   \ the agent's performance in cases of open and closed gates and discuss potential\
   \ motives for the observed gating behavior."
-publication: '*LANTERN@EMNLP-IJCNLP 2019 - Beyond Vision and LANguage: inTEgrating
-  Real-World kNowledge, Proceedings*'
+publication: '*EMNLP Workshop LANTERN 2019*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1912.05525

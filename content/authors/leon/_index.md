@@ -14,30 +14,29 @@ organizations:
   url: https://www.uva.nl/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an enthusiastic researcher in information theory and machine learning
+bio: I'm a researcher on AI Safety and Alignment with the goal to reduce catastrophic and existential risks.
 
 # Interests to show in About widget
 interests:
-- Information Theory
-- Machine Learning
-- Pure Mathematics
-- AI alignment
+- AI Alignment and Safety
+- Abstract Information Theory
+- Equivariant Deep Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Information Theory and Machine Learning
+  - course: PhD in AI Safety and Information Theory
     institution: University of Amsterdam
-    year: expected 2025
+    year: 2/2025
   - course: MSc in Artificial Intelligence
     institution: University of Amsterdam
-    year: 2020
+    year: 8/2020
   - course: MSc in Mathematics
     institution: University of Bonn
-    year: 2017
+    year: 10/2017
   - course: BSc in Mathematics
     institution: University of Heidelberg
-    year: 2015
+    year: 8/2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,7 +70,9 @@ email: "l.lang@uva.nl"
 highlight_name: true
 ---
 
-I am a PhD student at the University of Amsterdam, interested in information theory, equivariant deep learning, and pure mathematics more generally.
-More recently, I got very interested in AI alignment. You can find my alignment-related writing [on Lesswrong](https://www.lesswrong.com/users/leon-lang). 
+I am a PhD student at the University of Amsterdam, working on AI safety and previously abstract information theory. In the past, I also worked on equivariant deep learning.
+You can find my alignment-related blogposts [on Lesswrong](https://www.lesswrong.com/users/leon-lang). 
+
+**I am searching for research positions in AI Safety, so if you like my profile, consider writing me.**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
