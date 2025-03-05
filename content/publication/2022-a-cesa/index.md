@@ -53,7 +53,7 @@ abstract: Equivariance is becoming an increasingly popular design choice to buil
   the data.
 publication: '*ICLR 2022*'
 links:
-- name: Reviews
+- name: Reviews + Paper
   url: https://openreview.net/forum?id=WE4qe9xlnQw
 - name: Code
   url: https://github.com/QUVA-Lab/escnn

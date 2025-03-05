@@ -73,6 +73,6 @@ highlight_name: true
 I am a PhD student at the University of Amsterdam, working on AI safety and previously abstract information theory. In the past, I also worked on equivariant deep learning.
 You can find my alignment-related blogposts [on Lesswrong](https://www.lesswrong.com/users/leon-lang). 
 
-**I am searching for research positions in AI Safety, so if you like my profile, consider writing me.**
+**I am searching for research positions in AI Safety, so if you like my profile, please reach out to me via email.**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
